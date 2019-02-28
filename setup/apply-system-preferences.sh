@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -euxo pipefail
+
 ## Thanks to: 
 ## https://github.com/mathiasbynens/dotfiles/blob/master/.macos
 ## https://gist.github.com/tylerwalts/9375263
