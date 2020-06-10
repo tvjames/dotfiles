@@ -1,0 +1,9 @@
+[core]
+	editor = subl -n -w
+[color]
+	ui = true
+[alias]
+	kraken = !"open -n -a GitKraken.app --args --path \"$(pwd)\""
+	ignore = "!gi() { curl -L -s https://www.gitignore.io/api/$@ ;}; gi"
+	newpr = !git fetch --all --prune && git checkout master && git pull && git status && git checkout -b
+    latest = !git fetch --all --prune && git checkout master && git pull && git status
