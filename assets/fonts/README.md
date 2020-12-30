@@ -16,3 +16,4 @@
 * [Overpass](https://overpassfont.org/)
 * [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 * [Sparks](https://github.com/aftertheflood/sparks)
+* [Comic Mono](https://dtinth.github.io/comic-mono-font/)
